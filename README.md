@@ -8,7 +8,7 @@ They will need to register by filling in the required information to get success
 1) Appointments
 2) E-Patient
 3) Update Schedule
-4) Update Profile and Charges < /br>
+4) Update Profile and Charges <br />
 The above mentioned pages have been designed keeping in mind the needs of the medical healthcare professionals. The appointments option lets the doctor check the appointments scheduled for the day. In case the doctor wants to change the sched- ule for some reason, the doctor can go to the Update Schedule option and make the necessary changes in his/her schedule. If the medical professional wants to change his/her profile such as amount of fee charged or the area of expertise, then they can go to the Update Profile and Charges and make the necessary changes in their profile.
 
 ## Technolgies Used
