@@ -14,7 +14,7 @@ The above mentioned pages have been designed keeping in mind the needs of the me
 ## Technologies Used
 In making of this project we have used React native framework for the development of our app.For our app database we have used firebase realtime database.
 
-## Here are some Screen Shot of our app
+## Here are some Screen Shot of our Uchaar App
 
 ### Some creative UI in the starting
 
